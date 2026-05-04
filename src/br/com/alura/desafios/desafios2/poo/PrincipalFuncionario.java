@@ -1,6 +1,6 @@
 package br.com.alura.desafios.desafios2.poo;
 
-public class POO {
+public class PrincipalFuncionario {
     static void main() {
         //o ideal é criar uma classe para representar os funcionários
         Funcionario funcionario1 = new Funcionario(12000, "Ana");
