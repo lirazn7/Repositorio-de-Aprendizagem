@@ -10,7 +10,7 @@ public class Reserva {
     }
 
     public void reservar(String data, int pessoas) {
-        System.out.println("Reserva feita para o dia " + data + "para " +
-                "pessoas");
+        System.out.println("Reserva feita para o dia " + data + " para " + pessoas +
+                " pessoas");
     }
 }
